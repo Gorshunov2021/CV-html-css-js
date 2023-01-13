@@ -42,3 +42,14 @@ ul.topnav li.right {float: right;}
    ul.topnav li.right, 
    ul.topnav li {float: none;}
 }
+
+img {
+	border-radius: 10%;
+	border: 3px solid lightblue;
+	width: 170px;
+	margin: 15px;	
+}
+
+table, th, td {
+	width: 40%;
+}
